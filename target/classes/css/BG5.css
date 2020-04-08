@@ -1,0 +1,4 @@
+#mainBG {
+    -fx-background-image: url(bg/BG5.png);
+    -fx-background-size: cover;
+}

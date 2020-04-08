@@ -1,0 +1,29 @@
+#mainPanel {
+    -fx-background-color: TRANSPARENT;
+}
+
+#topBar {
+    -fx-background-radius: 10px 10px 0 0;
+}
+
+#minimize {
+    -fx-background-color: #00C0FF;
+}
+
+#close {
+    -fx-background-color: linear-gradient(to left bottom, #ff0000, #ff4300, #ff6200, #ff7a00, #ff9000);
+    -fx-background-radius: 0 10px 0 0;
+}
+
+#btnConnect {
+    -fx-background-color: linear-gradient(to right top, #00ea71, #00dfba, #00cdf3, #00b6ff, #0097ff);
+}
+
+#btnLogin {
+    -fx-background-color: linear-gradient(to right top, #00ea71, #00dfba, #00cdf3, #00b6ff, #0097ff);
+}
+
+#middlePane {
+    -fx-background-radius: 5px 5px 5px 5px;
+    -fx-background-color: rgbh(100,100,100,0.75);
+}

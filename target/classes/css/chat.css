@@ -1,0 +1,37 @@
+#mainPanel {
+    -fx-background-radius: 10px 10px 0 0;
+    -fx-background-color: TRANSPARENT;
+}
+
+#bodyPanel {
+    -fx-background-color: TRANSPARENT;
+}
+
+#leftPanel {
+    -fx-background-color: rgb(75,75,75);
+}
+
+#clientList {
+    -fx-background-color: rgbh(255,255,255, 0.75);
+}
+
+#chatArea {
+    -fx-background-color: rgbh(255,255,255,0.85);
+}
+
+#msgArea {
+    -fx-background-color: rgb(128, 232, 255);
+}
+
+#topBar {
+    -fx-background-radius: 10px 10px 0 0;
+}
+
+#minimize {
+    -fx-background-color: #00C0FF;
+}
+
+#close {
+    -fx-background-color: linear-gradient(to left bottom, #ff0000, #ff4300, #ff6200, #ff7a00, #ff9000);
+    -fx-background-radius: 0 10px 0 0;
+}
