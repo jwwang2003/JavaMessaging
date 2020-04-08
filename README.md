@@ -1,6 +1,6 @@
 # JavaMessaging
 
-Java messaging app (text only), client and server. A little project that I've been working on during COVID-19 quarantine. Time was spent into making the messaging app secure using RSA and AES256 encryption and also designing a nice looking, easy-to-use user interface. This project is technically finished but its really limited, might make improvements and add more features when I have time (during summer).
+Java messaging app (text only), client and server. A little project that I've been working on during COVID-19 quarantine. Time was spent into making the messaging app secure using RSA and AES256 encryption and also designing a nice looking, easy-to-use user interface. This project is technically finished but its really limited, might make improvements and add more features when I have time (during summer). Credits to [Brian](https://github.com/qgmzztmn) for helping me test every version of my program for bugs and feedback :)
 
 ## Features
 
