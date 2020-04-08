@@ -13,4 +13,4 @@ Java messaging app (text only), client and server. A little project that I've be
  - Requires Java 8 (1.8.0) both client & server
 	 - The specific version I used is "1.8.0_241"
 
-Client application is located in [Client](/client)
+Client application is located in [Client](https://github.com/jwwang2003/JavaMessaging/tree/master/Client)
