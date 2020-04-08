@@ -1,13 +1,19 @@
 # JavaMessaging
 
-Java messaging app (text only), client and server. A little project that I've been working on during COVID-19 quarantine. Time was spent into making the messaging app secure using RSA and AES256 encryption and also designing a nice looking, easy-to-use user interface.
+Java messaging app (text only), client and server. A little project that I've been working on during COVID-19 quarantine. Time was spent into making the messaging app secure using RSA and AES256 encryption and also designing a nice looking, easy-to-use user interface. This project is technically finished but its really limited, might make improvements and add more features when I have time (during summer).
 
 ## Features
 
  - Nice looking UI w/ subtle animations
- - AES256 end-to-end encryption
- - Not much lol
+	 - Wallpaper of login UI changes (6 different ones)
+ - AES256 end-to-end encryption (server - client)
+ - Unique names for each client
+ - Maybe more
 
+## Screenshots
+![alt text](https://github.com/jwwang2003/JavaMessaging/blob/master/preview/PIC1.png?raw=true)
+![alt text](https://github.com/jwwang2003/JavaMessaging/blob/master/preview/PIC2.png?raw=true)
+![alt text](https://github.com/jwwang2003/JavaMessaging/blob/master/preview/PIC3.png?raw=true)
 ## How to run
 
  - Requires Java 8 (1.8.0) both client & server
